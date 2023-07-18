@@ -89,7 +89,7 @@ class MelodyGen{
         {
           origin = "."
         }
-
+        debugger
         let head = document.getElementsByTagName('HEAD')[0];
         let link = document.createElement('link');
         link.rel = 'stylesheet';
