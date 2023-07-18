@@ -1,4 +1,4 @@
-class MelodyGen{
+clas{
 
    shouldCancel = false;
    continue = false;
